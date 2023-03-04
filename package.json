@@ -1,0 +1,13 @@
+{
+  "name": "back-end",
+  "version": "1.0.0",
+  "description": "Back-end of SneakerShop ecommerce website.",
+  "main": "index.js",
+  "git repository": "https://github.com/Patrik-07/SneakerShop_Back-end.git",
+  "author": "Patrik Santa",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "mongoose": "^7.0.0"
+  }
+}
